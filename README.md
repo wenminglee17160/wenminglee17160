@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there 
 
-![image](https://github.com/user-attachments/assets/602af3a3-ecce-4fe9-874b-84530d1e784f)<h1 align="center">Hi 👋, I'm Muhammad Ali Nasir</h1>
+![image](https://github.com/user-attachments/assets/602af3a3-ecce-4fe9-874b-84530d1e784f)<h1 align="center">Hi 👋, I'm Lee WenMing</h1>
 <h3 align="center">Full Stack Web Developer | Specializing in PHP Laravel & MySQL</h3>
 
 - 🔭 I’m recently worked on [Multivendor E-Commerce Project](https://github.com/M-Ali-Nasir/Laravel-Multi-Vendor-E-Commerce-Site)
