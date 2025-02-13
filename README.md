@@ -1,18 +1,15 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=dexternatan" alt="dexternatan" /></p>
 
 
-<h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Natanael</h1>
-<p align = "justify">Front-end Developer, Coffee lover, Javascript and SPA fan, Performance curious, @angular expert. Currently in love with RxJS and Reactive Programming.</p>
+<h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am WenMingLee</h1>
+<p align = "justify">Full stack developer, code enthusiast, JavaScript and TypeScript supporter, SPA and SSR fan. Passionate about clean architecture and scalable systems. Proficient in React, Vue.js and Node.js. Currently exploring React Native, Nest.js and Blockchain development.</p>
 
- 
-
-I'm learning at the moment **ReactNative, ReactJS, Deno**
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-natansl-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natanael-de-sousa-leite-57980725/)](https://www.linkedin.com/in/natanael-de-sousa-leite-57980725/)
 [![Instagram Badge](https://img.shields.io/badge/-natansl-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/natanael.sousaleite/?hl=pt-br)](https://instagram.com/natanael.sousaleite)
 [![Medium Badge](https://img.shields.io/badge/-@natansl-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@natansl/)](https://medium.com/@natansl)
-[![Gmail Badge](https://img.shields.io/badge/-natansl@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:natansl@gmail.com)](mailto:natansl@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-leewenming01697@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=leewenming01697@gmail.com)](mailto:leewenming01697@gmail.com)
 
 ## 🚀💻 Technologies & Tools
 
