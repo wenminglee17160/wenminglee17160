@@ -1,8 +1,22 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=dexternatan" alt="dexternatan" /></p>
 
 
-<h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am WenMingLee</h1>
+<h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am WenMing Lee</h1>
 <p align = "justify">Full stack developer, code enthusiast, JavaScript and TypeScript supporter, SPA and SSR fan. Passionate about clean architecture and scalable systems. Proficient in React, Vue.js and Node.js. Currently exploring React Native, Nest.js and Blockchain development.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
